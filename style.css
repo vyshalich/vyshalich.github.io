@@ -96,3 +96,17 @@ p{
     margin-top:10px;
     color:#94a3b8;
 }
+.about{
+    max-width:900px;
+    margin:100px auto;
+    text-align:center;
+    padding:20px;
+}
+
+.about h2{
+    margin-bottom:30px;
+}
+
+.about p{
+    margin-bottom:20px;
+}
