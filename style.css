@@ -114,23 +114,24 @@ a{
 
 /* ABOUT */
 
+/* ABOUT */
+
 .about{
-    max-width:900px;
-    margin:80px auto 140px;
-    text-align:left;
-    padding:0 40px;
+    max-width:1100px;
+    margin:120px auto 160px;
+    padding:0 80px;
 }
 
 .about h2{
-    font-size:42px;
-    margin-bottom:28px;
+    font-size:48px;
+    margin-bottom:40px;
     color:white;
 }
 
 .about p{
-    max-width:850px;
-    font-size:21px;
-    line-height:1.75;
-    margin-bottom:24px;
+    max-width:780px;
+    font-size:22px;
+    line-height:1.9;
+    margin-bottom:28px;
     color:#cbd5e1;
 }
